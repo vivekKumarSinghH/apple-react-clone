@@ -9,7 +9,11 @@ Apple is the largest information technology company by revenue (totaling US$365.
 </tr>
 </table>
 # Apple Clone
+<<<<<<< HEAD
 Deployment Link :- https://apple-clone-shersha.netlify.app
+=======
+Deployment Link :- https://mytheresa-clone.vercel.app/
+>>>>>>> 02e98f7c0690d2c64babdb0aab53df7ac2e8318d
 ## Built with Tech Stacks:
 - HTML 5
 - CSS
@@ -66,6 +70,9 @@ To run, follow these steps:
 - [@Vivek Sharma]()
 - [@Partha Pratim Das]()
 - [@Vishnu PS]()
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 02e98f7c0690d2c64babdb0aab53df7ac2e8318d
