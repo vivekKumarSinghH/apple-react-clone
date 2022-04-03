@@ -8,10 +8,12 @@ Apple is the largest information technology company by revenue (totaling US$365.
 </td>
 </tr>
 </table>
+
 # Apple Clone
 
 Deployment Link :- https://apple-clone-shersha.netlify.app/
 ## Built with Tech Stacks:
+
 - HTML 5
 - CSS
 - Advanced JavaScript (ES6)
@@ -25,7 +27,9 @@ Deployment Link :- https://apple-clone-shersha.netlify.app/
 - User can add products to cart and take it to dummy payment
 - Dummy Payment
 ## About Website:
+
 ## Home Page
+
 This is the home page of website from where user can explore different types of products categories. From home page itself user can Sign In or Login to website, user can visit cart page.
 ![Home_page](https://user-images.githubusercontent.com/91543059/161436604-c3cc6f48-825b-4fc9-958d-8c6a2243ab07.png)
 ## Product Categories
