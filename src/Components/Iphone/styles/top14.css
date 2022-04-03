@@ -1,0 +1,57 @@
+#container14{
+    /* border: 1px solid blue; */
+    width: 95%;
+    height: 500px;
+    margin: auto;
+    display: flex;
+    margin-top: 10px;
+    background-color: #ffffff;
+}
+#img14{
+    /* border: 1px solid black; */
+    height: 100%;
+    width: 59%;
+}
+#box14{
+    /* border: 1px solid blue; */
+    width: 41%;
+    height: 100%;
+}
+#box214{
+    /* border: 1px solid blue; */
+    width: 350px;
+    height: 250px;
+    margin-left: 20px;
+    margin-top: 200px;
+}
+#box114{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 48px;
+    line-height: 52px;
+    color: #1d1d1f;
+    text-align: center;
+    font-weight: 600;
+}
+#para14{
+    font-family:"SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    color: #1d1d1f;
+    text-align: center;
+    font-style: normal;
+    padding-top: 20px;
+}
+#link14{
+    font-family:"SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    color: #0066cc;
+    text-align: center;
+    font-style: normal;
+    margin-top: 23px;
+    text-decoration: none;
+    padding-top: 20px;
+}

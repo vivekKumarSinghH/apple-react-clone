@@ -1,0 +1,109 @@
+
+#container5{
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 800px;
+    background-color: #ffffff;
+}
+#boxesDiv5{
+   border-bottom: 1px grey;
+    margin: auto;
+    width: 80%;
+    height: 550px;
+   
+    display: grid;
+    grid-template-columns: repeat(4,20%);
+    grid-gap: 5%;
+}
+#boxesDiv5>div{
+  border-bottom: 1px solid grey;
+
+}
+#colorsvar5{
+    margin: auto;
+    width: 80px;
+    margin-top: 15px;
+}
+#new5{
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    line-height: 16px;
+    font-size: 12px;
+    font-style: normal;
+    color: #bf4800;
+
+}
+#iphonetxt5{
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    line-height: 25px;
+    font-size: 17px;
+    color: #1d1d1f;
+    font-style: normal;
+    margin-top: 15px;
+}
+#logo5{
+    margin-top: 10px;
+}
+#price5{
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1d1d1f;
+    font-style: normal;
+}
+#button5{
+    background-color: #0071e3;
+    color: #ffffff;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #ffffff;
+    border: 0px;
+    margin: auto;
+    width: 43px;
+    height: 25px;
+    border-radius: 15px;
+    margin-top: 10px;
+
+}
+#link5{
+    color: #0066cc;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    font-style: normal;
+    text-decoration: none;
+    padding-top: 10px;
+
+}
+#link5:hover{
+    cursor: default;
+    text-decoration: underline;
+}
+#which5{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 52px;
+    color: #1d1d1f;
+    margin-left: 200px;
+  
+
+}
+#whichDiv5{
+    margin-top: 120px;
+    margin-bottom: 76px;
+}
+#colorsvar5-3{
+    margin: auto;
+    width: 50px;
+    margin-top: 5px;
+}
+#img-5{
+    height:250px
+}

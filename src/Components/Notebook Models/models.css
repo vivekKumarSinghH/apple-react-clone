@@ -1,0 +1,55 @@
+.modelImage{
+    display: flex;
+    justify-content: space-evenly;
+}
+.productName{
+    font-size: 24px;
+    line-height: 10px;
+    font-weight: 600;
+    letter-spacing: .009em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: rgb(29,29,31);
+    margin: 30px 0 40px 0;
+}
+.price{
+    line-height: 5px;
+    font-size: 15px;
+    color: rgb(29,29,31);
+}
+.button{
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 17px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+      "Arial", sans-serif;
+    min-width: 28px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 980px;
+    background: #0071e3;
+    color: #fff;
+    border: none;
+}
+.modelCard{
+    border-bottom: 1px solid slategray;
+    justify-content: center;
+}
+.gridContainer{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 50px;
+    
+}
+.gridItem h5{
+    color:rgb(88,88,89); 
+}
+.gridItem >img{
+    margin: auto;
+}

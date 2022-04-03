@@ -1,0 +1,97 @@
+#container9{
+    /* border: 1px solid black; */
+    height: 670px;
+    width: 95%;
+    margin: auto;
+    background-color:#ffffff;
+}
+#topcont9{
+    /* border: 1px solid blue; */
+    height: 200px;
+    width: 610px;
+    margin: auto;
+    margin-top: 90px;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    color: #1d1d1f;
+    margin-left: 300px;
+
+}
+#bottom9{
+    /* border: 1px solid blue; */
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 52px;
+    color: #1d1d1f;
+    margin-top: 10px;
+    text-align: center;
+
+
+}
+#icons9>div{
+    /* border: 1px solid blue; */
+}
+#icons9{
+    /* border: 1px solid blue; */
+    width: 100%;
+    height: 95px;
+    margin: auto;
+    margin-top: 20px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 160px 240px 160px;
+    grid-gap: 180px;
+}
+#icons91{
+    /* border: 1px solid blue; */
+    width: 100%;
+    height: 65px;
+    margin: auto;
+   
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 160px 240px 160px;
+    grid-gap: 180px;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    color: #1d1d1f;
+}
+#button9{
+    background-color: #0071e3;
+    color: #ffffff;
+    height: 55px;
+    width: 165px;
+    border: 0px;
+    margin: auto;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 470px;
+}
+.des9{
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    color: #1d1d1f;
+    font-style: normal;
+
+}
+#link9{
+    color:#0066cc;
+    text-decoration: none;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+   
+    font-style: normal;
+
+}
+#link9:hover{
+    text-decoration: underline;
+}

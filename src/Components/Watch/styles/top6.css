@@ -1,0 +1,82 @@
+#container6{
+    /* border: 1px solid blue; */
+    width: 95%;
+    margin: auto;
+    height: 550px;
+    display: flex;
+}
+#inDiv6{
+    /* border: 1px solid blue; */
+    height: 350px;
+    width: 400px;
+    margin-top: 130px;
+    margin-left: 50px;
+    
+}
+#text-1-6{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    color: #1d1d1d;
+    text-align: center;
+    margin-left:100px ;
+
+}
+#head-6{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600px;
+    font-size: 48px;
+    line-height: 52px;
+    color: #1d1d1d;
+    text-align: center;
+
+}
+#para-6{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600px;
+    font-size: 21px;
+    line-height: 25px;
+    color: #1d1d1d;
+    text-align: center;
+}
+#buttons-6{
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    color: #0066cc;
+    display: flex;
+   
+}
+#button-6{
+    /* border: 1px solid #0066cc; */
+    width: 120px;
+    height: 40px;
+    margin-left: 50px;
+    border-radius: 30px;
+    color: #0066cc;
+}
+#button-6:hover{
+    background-color: #0066cc;
+    color: #ffffff;
+}
+#link-6{
+    color: #0066cc;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#link-6:hover{
+    text-decoration: underline;
+}
+#img-6{
+    width: 600px;
+    height: 430px;
+    margin-top: 60px;
+    margin-left: 40px;
+}

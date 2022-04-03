@@ -1,0 +1,25 @@
+#divs>a{
+    
+    
+    flex: 0 0 auto;
+
+}
+#divs ,#udiv{
+
+flex-wrap: nowrap;
+overflow: hidden;
+    overflow-x:scroll;
+}
+#divs::-webkit-scrollbar {    display: none;}
+#udiv::-webkit-scrollbar {    display: none;}
+
+
+#udiv>a, #udiv>div>a{
+       
+    flex: 0 0 auto;
+width: 480px;
+height: 500px;
+}
+#udiv>div>a{
+    height: 240px;
+}

@@ -1,0 +1,25 @@
+#box121{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 48px;
+    line-height: 52px;
+    color: #1d1d1f;
+    text-align: center;
+    font-weight: 600;
+}
+#box21{
+    /* border: 1px solid blue; */
+    height: 250px;
+    width: 450px;
+    margin-top: 160px;
+    margin-left: 160px;
+}
+#today21{
+   font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-style: normal;
+   font-weight: 600;
+   font-size: 28px;
+   line-height: 32px;
+   color: #1d1d1f;
+}
+

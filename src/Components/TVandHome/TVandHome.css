@@ -1,0 +1,435 @@
+body {
+  background-color: #f5f5f7;
+}
+.tvicons {
+  display: flex;
+  gap: 23px;
+  cursor: pointer;
+  width: 50%;
+  margin-left: 420px;
+}
+.tvicons div:nth-child(1) img {
+  width: 35px;
+  margin-left: 30px;
+}
+.tvicons div:nth-child(1):hover p {
+  color: blue;
+}
+.tvicons div:nth-child(2) img {
+  width: 35px;
+  margin-left: 30px;
+}
+.tvicons div:nth-child(2):hover p {
+  color: blue;
+}
+.tvicons div:nth-child(3) img {
+  width: 32px;
+  margin-left: 35px;
+  margin-top: 1px;
+}
+.tvicons div:nth-child(3):hover p {
+  color: blue;
+}
+.tvicons div:nth-child(4) img {
+  width: 50px;
+  margin-left: 17px;
+  margin-top: -3px;
+}
+.tvicons div:nth-child(4):hover p {
+  color: blue;
+}
+.tvicons div:nth-child(5) img {
+  width: 23px;
+  margin-left: 25px;
+  margin-top: -3px;
+}
+.tvicons div:nth-child(5) p {
+  margin-left: 6px;
+}
+.tvicons div:nth-child(5):hover p {
+  color: blue;
+}
+.tvicons div:nth-child(6) img {
+  width: 37px;
+  margin-left: 13px;
+}
+.tvicons div:nth-child(6) p {
+  margin-left: 5px;
+}
+.tvicons div:nth-child(6):hover p {
+  color: blue;
+}
+.tvicons div:nth-child(7) img {
+  width: 20px;
+  margin-left: 23px;
+}
+.tvicons div:nth-child(7) p {
+  margin-left: 7px;
+  margin-top: 5px;
+}
+.tvicons div:nth-child(7):hover p {
+  color: blue;
+}
+.tvicons p {
+  font-size: 12px;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-weight: 400;
+  line-height: 16.0005px;
+  letter-spacing: -0.12px;
+}
+.cartoonImg {
+  margin: auto;
+  margin-top: 23px;
+  width: 96%;
+  /* border: 1px solid red; */
+}
+.futureImgtxt {
+  /* border: 1px solid red; */
+  width: 71%;
+  margin: auto;
+}
+.futureImgtxt div:nth-child(1) {
+  width: 1400px;
+  /* border: 1px solid red; */
+  height: 340px;
+  margin-left: -10%;
+  margin-top: 60px;
+}
+
+.futureImgtxt div:nth-child(2) {
+  font-size: 96px;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-weight: 700;
+  line-height: 96px;
+  letter-spacing: -1.44px;
+  text-align: center;
+  margin-top: -50px;
+}
+.futureImgtxt p {
+  color: #87878c;
+  font-size: 24px;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0.216px;
+  margin-top: 20px;
+}
+.futureImgtxt h5 {
+  margin-top: 11px;
+  text-align: center;
+  color: #87878c;
+  font-size: 14px;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-weight: 600;
+  line-height: 18.0008px;
+  letter-spacing: -0.224px;
+}
+.homePod {
+  display: flex;
+  gap: 2%;
+  width: 87%;
+  height: 760px;
+  margin: auto;
+  margin-top: 120px;
+  /* border: 1px solid green; */
+}
+.homePod div:nth-child(1) div:nth-child(1) {
+  width: 420px;
+  text-align: center;
+  margin: auto;
+  /* border: 1px solid palevioletred; */
+}
+.homePod div:nth-child(1) div p:nth-child(1) {
+  font-size: 21px;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: 0.231px;
+  margin-top: 50px;
+}
+.homePod div:nth-child(1) div h3 {
+  font-size: 40px;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-weight: 700;
+  line-height: 40px;
+  margin-top: 4px;
+}
+.homePod div:nth-child(1) div:nth-child(1) .pri {
+  font-size: 21px;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-weight: 400;
+  line-height: 29.001px;
+  letter-spacing: 0.231px;
+  margin-top: 13px;
+}
+.homePod div:nth-child(2) div:nth-child(1) {
+  width: 420px;
+  margin: auto;
+  text-align: center;
+  /* border: 1px solid brown; */
+}
+.homePod div:nth-child(2) div:nth-child(1) img {
+  /* border: 1px solid red; */
+  margin: auto;
+  margin-top: 50px;
+
+}
+.homePod div:nth-child(2) div:nth-child(1) h3 {
+  font-size: 40px;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-weight: 700;
+  line-height: 40px;
+  margin-top: 10px;
+}
+.homePod div:nth-child(2) div .pri {
+  font-size: 21px;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-weight: 400;
+  line-height: 29.001px;
+  letter-spacing: 0.231px;
+  margin-top: 20px;
+}
+.homePod .hopod {
+  width: 49%;
+  /* border: 1px solid red; */
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  background-color: white;
+}
+
+.homePod div:nth-child(1) .outImg {
+  width: 647px;
+  margin-top: 20px;
+}
+.homePod div:nth-child(2) .outImg {
+  width: 647px;
+  margin-top: 20px;
+}
+.btntxt {
+  display: flex;
+  /* border: 1px solid blueviolet; */
+  margin-left: 110px;
+  margin-top: -15px;
+}
+.btntxt button {
+  cursor: pointer;
+  background-color: #0071e3;
+  color: white;
+  border: none;
+  border-radius: 22px;
+  /* padding: 10px; */
+  margin-left: 120px;
+  letter-spacing: -0.374px;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  width: 75px;
+  height: 45px;
+  margin-top: 40px;
+}
+.btntxt p {
+  cursor: pointer;
+  color: #1572cf;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  font-size: 17px;
+  line-height: 25px;
+  letter-spacing: -0.374px;
+  font-weight: 400;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.btntxt p:hover {
+  text-decoration: underline;
+}
+.home {
+  display: flex;
+  /* border: 1px solid red; */
+  margin: auto;
+  width: 87%;
+  height: 500px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  margin-top: 20px;
+}
+.home div:nth-child(1) img {
+  margin-top: 70px;
+  margin-left: 110px;
+}
+.home div:nth-child(2) {
+  /* border: 1px solid blue; */
+  width: 350px;
+  height: 260px;
+  margin: auto;
+  margin-top: 130px;
+  text-align: center;
+  margin-left: -15px;
+}
+.home div:nth-child(2) img {
+  
+  margin: auto;
+
+}
+.home div:nth-child(2) p:nth-child(2) {
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  font-size: 21px;
+  line-height: 25px;
+  letter-spacing: 0.231px;
+  font-weight: 600;
+  margin-top: 6px;
+}
+.home .holm:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.home div:nth-child(2) h3 {
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 40px;
+  margin-top: 10px;
+}
+.home div:nth-child(2) p:nth-child(4) {
+  color: #0071e3;
+  letter-spacing: -0.374px;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+.every {
+  letter-spacing: -0.576px;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  font-size: 64px;
+  line-height: 64px;
+  font-weight: 700;
+  margin-top: 150px;
+  /* border: 1px solid red; */
+  text-align: center;
+  width: 1000px;
+  margin-left: 290px;
+}
+.watch {
+  letter-spacing: -0.576px;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  font-size: 64px;
+  line-height: 64px;
+  font-weight: 700;
+  margin-top: 150px;
+  /* border: 1px solid red; */
+  text-align: center;
+  width: 1100px;
+  margin-left: 250px;
+}
+.tvvideo {
+  width: 74%;
+  margin-left: 220px;
+  height: 630px;
+  margin-top: 50px;
+  border: 5px solid black;
+  border-radius: 0%;
+  padding-top: -15px;
+}
+.viinn {
+  height: 630px;
+  margin-top: -13.7px;
+  margin-left: -1px;
+  margin-right: 0px;
+}
+.tvmusic {
+  display: flex;
+  gap: 25px;
+  width: 70%;
+  margin-left: 280px;
+  /* border: 1px solid red; */
+  margin-top: 63px;
+}
+.tvmusicSingle {
+  /* border: 1px solid blue; */
+  text-align: center;
+  width: 240px;
+}
+.tvmusicSingle img {
+  margin-left: 5px;
+}
+.tvmusicSingle p:nth-child(2) {
+  letter-spacing: 0.231px;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  font-size: 21px;
+  line-height: 25px;
+  font-weight: 400;
+  margin-top: 10px;
+}
+.tvmusicSingle p:nth-child(4) {
+  color: #0071e3;
+  letter-spacing: -0.374px;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  cursor: pointer;
+  margin-top: 15px;
+}
+.tvmusicSingle p:nth-child(4):hover {
+  text-decoration: underline;
+}
+.tvmusicSingle button {
+  cursor: pointer;
+  background-color: #0071e3;
+  color: white;
+  border: none;
+  border-radius: 22px;
+  letter-spacing: -0.374px;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  width: 100px;
+  height: 35px;
+  margin-top: 20px;
+}
+.accessorries {
+  letter-spacing: -0.576px;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  font-size: 64px;
+  line-height: 64px;
+  font-weight: 700;
+  margin-top: 150px;
+  /* border: 1px solid red; */
+  text-align: center;
+  width: 1000px;
+  margin-left: 290px;
+}
+.sa {
+  cursor: pointer;
+  letter-spacing: 0.231px;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  font-size: 21px;
+  line-height: 25px;
+  font-weight: 400;
+  text-align: center;
+  color: #0071e3;
+  margin-top: 20px;
+}
+.sa:hover {
+  text-decoration: underline;
+}

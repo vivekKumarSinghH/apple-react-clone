@@ -1,0 +1,50 @@
+#container15{
+    /* border: 1px solid blue; */
+    width: 95%;
+    margin: auto;
+    height: 600px;
+    margin-top: 10px;
+    background-image: url("https://www.apple.com/v/iphone/home/be/images/overview/accessories/airpods__eb24cvhoe26a_large_2x.jpg");
+    background-size: 107%;
+}
+#inDiv15{
+    /* border: 1px solid blue; */
+    height: 250px;
+    width: 300px;
+    margin-left: 480px;
+    margin-top: 60px;
+}
+#box115{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 48px;
+    line-height: 52px;
+    color: #1d1d1f;
+    text-align: center;
+    font-weight: 600;
+}
+#para15{
+    font-family:"SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    color: #1d1d1f;
+    text-align: center;
+    font-style: normal;
+    padding-top: 20px;
+}
+#link15{
+    font-family:"SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    color: #0066cc;
+    text-align: center;
+    font-style: normal;
+    margin-top: 23px;
+    text-decoration: none;
+    padding-top: 20px;
+}
+#link15:hover{
+    text-decoration: underline;
+}

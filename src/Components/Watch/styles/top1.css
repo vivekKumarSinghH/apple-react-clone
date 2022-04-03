@@ -1,0 +1,148 @@
+#container1{
+    /* border: 1px solid blue; */
+    width: 95%;
+    margin: auto;
+    height: 1180px;
+}
+body{
+    background-color: #f8f2f3;
+}
+#contend1{
+    /* border: 1px solid blue; */
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    margin-top: 80px;
+}
+#contend1>img{
+    margin-left:130px ;
+}
+#bottomimg1{
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 320px;
+    
+}
+#box1{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 48px;
+    line-height: 52px;
+    color: #1d1d1f;
+    text-align: center;
+    font-weight: 600;
+}
+#price1{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 29px;
+    color: #1d1d1f;
+    padding-left: 130px;
+}
+#button1{
+    border: none;
+    color: #ffffff;
+    font-family:  "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    width: 65px;
+    background-color: #0071e3;
+    height: 40px;
+    border-radius: 20px;
+
+ 
+}
+#links1{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    color: #0066cc;
+}
+#imgDiv1{
+    /* border: 1px solid blue; */
+    width:100%;
+    margin: auto;
+    height: 800px;
+}
+#button1:hover{
+    background-color: #368ee7;
+}
+/* next */
+#container2{
+    border: 1px solid black;
+    width: 95%;
+    margin: auto;
+    border-radius: 30px;
+    height: 800px;
+    margin-top: 30px;
+    display: flex;
+    background-color: #ffffff;
+
+}
+#img2{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#right2{
+    /* border: 1px solid black; */
+    width: 430px;
+    height: 550px;
+    margin-top: 30px;
+}
+#topt2{
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    color: #1d1d1f
+    
+
+}
+#text2{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 84px;
+    color:#5f6d7e ;
+   
+
+}
+#btn2{
+    /* border: 1px solid black; */
+    height: 60px;
+    width: 350px;
+     border-radius: 50px;
+    margin: auto;
+    margin-top: 40px;
+    background-color: #e3dadb;
+    font-family:  "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    color: #1d1d1f;
+    display: flex;
+   
+    
+}
+#btn-1-2{
+    /* border: 1px solid black; */
+    height: 100%;
+    width: 50%;
+    border-radius: 30px;
+    font-family:  "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    color: #ffffff;
+    background-color:#1d1d1f;
+  
+}

@@ -1,0 +1,75 @@
+#container8{
+    /* border: 1px solid black; */
+    height:500px;
+    width: 95%;
+    margin: auto;
+    margin-top: 70px;
+    display: flex;
+    background-color: #ffffff;
+   
+}
+#con8{
+    /* border: 1px solid blue; */
+    height: 100%;
+    width: 45%;
+    margin-right: 10%;
+    background-color: #ffffff;
+}
+#cont82{
+    /* border: 1px solid blue; */
+    height: 100%;
+    width: 45%;
+    background-color: #ffffff;
+}
+#inDiv8{
+    /* border: 1px solid blue; */
+    width: 100%;
+    height: 300px;
+    margin-top: 70px;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 48px;
+    line-height: 52px;
+    color: #1d1d1f;
+    text-align: center;
+    font-weight: 600;
+
+}
+#para8{
+ font-family:"SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font-weight: 400;
+ font-size: 21px;
+ line-height: 29px;
+ color: #1d1d1f;
+ text-align: center;
+ font-style: normal;
+ margin-top: 23px;
+
+}
+#link8{
+    font-family:"SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    color: #0066cc;
+    text-align: center;
+    font-style: normal;
+    margin-top: 23px;
+    text-decoration: none;
+}
+#link8:hover{
+    text-decoration: underline;
+}
+#imgDiv8{
+    /* border: 1px solid blue; */
+    width: 300px;
+    height: 345px;
+    margin: auto;
+    margin-top: 30px;
+}
+#box28{
+    /* border: 1px solid blue; */
+    height: 345px;
+    width: 100%;
+    margin-top: 30px;
+}

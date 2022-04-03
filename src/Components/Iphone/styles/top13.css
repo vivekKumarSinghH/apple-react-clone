@@ -1,0 +1,65 @@
+#container13{
+    /* border: 1px solid blue; */
+    width: 95%;
+    height: 500px;
+    margin: auto;
+    display: flex;
+    background-color: #ffffff;
+}
+#box13{
+    /* border: 1px solid blue; */
+    height: 250px;
+    width: 270px;
+    margin-top: 160px;
+    margin-left: 160px;
+}
+#box113{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 48px;
+    line-height: 52px;
+    color: #1d1d1f;
+    text-align: center;
+    font-weight: 600;
+}
+#para13{
+    font-family:"SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    color: #1d1d1f;
+    text-align: center;
+    font-style: normal;
+    padding-top: 20px;
+}
+#link13{
+    font-family:"SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    color: #0066cc;
+    text-align: center;
+    font-style: normal;
+    margin-top: 23px;
+    text-decoration: none;
+    padding-top: 20px;
+}
+#side13{
+    /* border: 1px solid blue; */
+    height: 420px;
+    width: 640px;
+    margin-top: 80px;
+    margin-left: 130px;
+}
+#link13:hover{
+    text-decoration: underline;
+}
+#container24{
+    /* border: 1px solid blue; */
+    width: 85%;
+    height: 800px;
+    font-size: 12px;
+    margin-top: 90px;
+    margin: auto;
+}
+   

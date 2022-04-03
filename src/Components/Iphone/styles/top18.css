@@ -1,0 +1,49 @@
+#container18{
+    border: 1px solid rgb(227, 227, 231);
+    height: 520px;
+    width: 95%;
+    margin: auto;
+    background-image: url("https://www.apple.com/v/iphone/home/be/images/overview/why-iphone/ios15_preview__ei1gqo42n8gi_large_2x.jpg");
+    background-size: 110%;
+}
+#box18{
+    /* border: 1px solid rgb(49, 23, 219); */
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    margin-top: 160px;
+    margin-left: 510px;
+}
+
+
+#box118{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 48px;
+    line-height: 52px;
+    color: #1d1d1f;
+    text-align: center;
+    font-weight: 600;
+}
+#para18{
+    font-family:"SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    color: #1d1d1f;
+    text-align: center;
+    font-style: normal;
+    padding-top: 20px;
+}
+#link18{
+    font-family:"SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    color: #0066cc;
+    text-align: center;
+    font-style: normal;
+    margin-top: 23px;
+    text-decoration: none;
+    padding-top: 20px;
+}

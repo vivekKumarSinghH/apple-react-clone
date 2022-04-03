@@ -1,0 +1,161 @@
+#container23{
+    /* border: 1px solid blue; */
+    height: 550px;
+    width: 95%;
+    margin: auto;
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 48.75% 48.75%;
+    grid-gap: 2.5%;
+
+}
+#container23>div{
+    /* border: 1px solid blue; */
+}
+#bottom23{
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 50%;
+    background-color: #000000;
+}
+#bottom232{
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 50%;
+}
+#contend23{
+    /* border: 1px solid green; */
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    /* margin-top: 50px; */
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size:21px;
+    line-height: 29px;
+    color: #f5f5f7
+}
+#link23{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size:21px;
+    line-height: 29px;
+    color: #2997ff
+}
+#img23{
+    width: 92px;
+   margin-top: 30px;
+}
+#contend232{
+    /* border: 1px solid green; */
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    /* margin-top: 50px; */
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size:21px;
+    line-height: 29px;
+    color: #1d1d1f;
+}
+#img232{
+    width: 140px;
+   margin-top: 30px;
+}
+#bottom2321{
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 67%;
+}
+#container-2-23{
+    /* border: 1px solid red ; */
+    width: 95%;
+    margin: auto;
+    height: 600px;
+    margin-top: 90px;
+    display: grid;
+    grid-template-columns: 48.75% 48.75%;
+    grid-template-rows: 100%;
+    grid-gap: 2.5%;
+}
+
+#left23{
+    background-image: url("https://www.apple.com/v/iphone/home/be/images/overview/more-iphone/apple_news_plus_tile_update__f9t8i1emkeye_large_2x.jpg");
+    background-size: 100%;
+}
+
+#contend2321{
+    /* border: 1px solid green; */
+    height: 200px;
+    width: 350px;
+    margin: auto;
+    /* margin-top: 50px; */
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size:21px;
+    line-height: 29px;
+    color: #ffffff;
+}
+#link231{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size:21px;
+    line-height: 29px;
+    color: #ffffff;
+    text-decoration: none;
+}
+#link231:hover{
+    text-decoration: underline;
+}
+#left231{
+    background-image: url("https://www.apple.com/v/iphone/home/be/images/overview/more-iphone/arcade/apple_arcade__ed9agwipygeq_large_2x.jpg");
+    background-size: 120%;
+}
+#contend23212{
+    /* border: 1px solid green; */
+    height: 200px;
+    width: 350px;
+    margin: auto;
+    /* margin-top: 50px; */
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size:21px;
+    line-height: 29px;
+    color: #1d1d1f;
+}
+/* #left23-1{
+    background-image: url("https://www.apple.com/v/iphone/home/be/images/overview/more-iphone/fitness_plus__e7jek86csoqe_large_2x.jpg");
+    background-size: 150%;
+    background-position: top 300px;
+} */
+
+#bottom231{
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 50%;
+    background-color: #ffffff;
+}
+#contend231{
+    /* border: 1px solid green; */
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    /* margin-top: 50px; */
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size:21px;
+    line-height: 29px;
+    color: #1d1d1f;
+}
+#img23-1{
+    width: 130px;
+   margin-top: 30px;
+   height: 30px;
+}
